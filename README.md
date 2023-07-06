@@ -1,7 +1,7 @@
 # Powershell
-## ***Cmdlets Powershell***
+## ***Commandes Powershell***
 
-| Linux | Powershell | Commande Powershell |
+| Linux | Powershell | Cmdlets Powershell |
 |---    |:-:         |:-:
 | cp    | Copy-Item  | *Get-Help cp*
 | rm    | Remove-Item| *Get-Help rm*
